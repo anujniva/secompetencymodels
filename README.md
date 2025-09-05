@@ -8,7 +8,7 @@ Folder "Reproduction Package" contains the following files:<p></p>
 (txt) data sources<br></br>
 (txt) search string<br></br>
 (txt) inclusion and exclusion criteria<p></p>
-(txt) quality assessment criteria<p></p>
+(txt) quality assessment criteria<div></div>
 (txt) selected papers <p></p>
-(txt) data extraction<p></p>
+(txt) data extraction<span></span>
 (xlsx) data extraction file<p></p>
