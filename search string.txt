@@ -1,0 +1,5 @@
+("software develop*" OR "software engineer*" OR "software industr*" OR "software organization*" OR "software process*" OR "software product*" OR "software project*" OR "software test*" OR "software design*" OR "software analys*" OR "software team*" OR "software compan*" OR "software firm*" OR "software house*" OR "software system*")
+AND
+("competenc*" OR "skill*")
+AND
+(model OR framework OR profile)

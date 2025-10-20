@@ -1,0 +1,12 @@
+Is the paper based on research (or is it merely a ‘lessons learned’ report based on expert opinion)?
+Is there a clear statement of the aims of the research?
+Is there an adequate description of the context in which the research was carried out?
+Was the research design appropriate to address the aims of the research?
+Was the recruitment strategy appropriate to the aims of the research?
+Was the data collected in a way that addressed the research issue?
+Was the data analysis sufficiently rigorous?
+Has the relationship between researcher and participants been adequately considered?
+Is there a clear statement of findings?
+Is the study of value for research or practice?
+
+scale: yes = 1, partly = 0.5, and no = 0.

@@ -1,0 +1,46 @@
+OVERVIEW OF THE STUDIES:
+name of the conference
+name of the journal
+publication year
+database
+
+RQ1
+application domain
+name of the model
+aim of the model
+role of the model in the study
+job roles
+use scenarios
+international aspects
+
+RQ2
+international competency
+communication competency
+collaboration and teamwork competency
+intercultural competency
+native language competency
+English language competency
+FOR EACH SEPARATELY: 
+expertise level
+position among soft competencies
+supplementary
+
+RQ3
+conceptual basis
+definition of the main competency concept
+type of competency
+hard and/or soft
+competency categories
+level of expertise
+research method
+research strategy
+data collection methods
+data sources
+origin of competencies
+analysis methods
+phases of the study
+appearance
+international aspects
+
+RQ1-RQ3:
+screen captures of competency models

@@ -1,0 +1,55 @@
+Rivera-Ibarra, J. G., Rodriguez-Jacobo, J., Fernandez-Zepeda, J. A., & Serrano-Vargas, M. A. (2010). Competency Framework for Software Engineers. 2010 23rd IEEE Conference on Software Engineering Education and Training, 33–40. https://doi.org/10.1109/CSEET.2010.21 
+
+André, M., Baldoquín, M. G., & Acuña, S. T. (2011). Formal model for assigning human resources to teams in software projects. Information and Software Technology, 53(3), 259–275. https://doi.org/10.1016/j.infsof.2010.11.011 
+
+Espinosa-Curiel, I. E., Rodríguez-Jacobo, J., & Fernández-Zepeda, J. A. (2011). A competency framework for the stakeholders of a software process improvement initiative. Proceedings of the 2011 International Conference on Software and Systems Process, 139–148. https://doi.org/10.1145/1987875.1987898 
+
+Klendauer, R., Berkovich, M., Gelvin, R., Leimeister, J. M., & Krcmar, H. (2012). Towards a competency model for requirements analysts. Information Systems Journal, 22(6), 475–503. https://doi.org/10.1111/j.1365-2575.2011.00395.x 
+
+Saldaña-Ramos, J., Sanz-Esteban, A., Garcia-Guzman, J., & Amescua, A. (2012). Design of a competence model for testing teams. IET Software, 6(5), 405–415. https://doi.org/10.1049/iet-sen.2011.0182 
+
+Kimmelmann, N. (2013). Career in Open Source? Relevant Competencies for Successful Open Source Developers. Itit, 55(5), 204–212. https://doi.org/10.1515/itit.2013.1009 
+
+Linck, B., Ohrndorf, L., Schubert, S., Stechert, P., Magenheim, J., Nelles, W., Neugebauer, J., & Schaper, N. (2013). Competence model for informatics modelling and system comprehension. 2013 IEEE Global Engineering Education Conference, 85–93. https://doi.org/10.1109/EduCon.2013.6530090 
+
+Matook, S., & Maruping, L. M. (2014). A Competency Model for Customer Representatives in Agile Software Development Projects. MIS Quartely Executive, 13(2), 77–95. 
+
+Sedelmaier, Y., & Landes, D. (2014). Software engineering body of skills (SWEBOS). 2014 IEEE Global Engineering Education Conference, 395–401. https://doi.org/10.1109/EDUCON.2014.6826125 
+Aisha, A. N., Siswanto, J., & Sudirman, I. (2016). Competencies model for entrepreneur development in software industries. 2016 IEEE International Conference on Industrial Engineering and Engineering Management, 184–188. https://doi.org/10.1109/IEEM.2016.7797861 
+
+Calazans, A. T. S., Paldes, R. A., Masson, E. T. S., Brito, I. S., Rezende, K. F., Braosi, E., & Pereira, N. I. (2017). Software Requirements Analyst Profile: A Descriptive Study of Brazil and Mexico. 2017 IEEE 25th International Requirements Engineering Conference, 204–212. https://doi.org/10.1109/RE.2017.22 
+
+Daneva, M., Wang, C., & Hoener, P. (2017). What the Job Market Wants from Requirements Engineers? An Empirical Analysis of Online Job Ads from the Netherlands. 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, 448–453. https://doi.org/10.1109/ESEM.2017.60 
+
+Frezza, S., Daniels, M., Pears, A., Cajander, Å., Kann, V., Kapoor, A., McDermott, R., Peters, A.-K., Sabin, M., & Wallace, C. (2018). Modelling competencies for computing education beyond 2020: A research based approach to defining competencies in the computing disciplines. Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education, 148–174. https://doi.org/10.1145/3293881.3295782 
+
+Vishnubhotla, S. D., Mendes, E., & Lundberg, L. (2018). An Insight into the Capabilities of Professionals and Teams in Agile Software Development: A Systematic Literature Review. Proceedings of the 2018 7th International Conference on Software and Computer Applications, 10–19. https://doi.org/10.1145/3185089.3185096 
+
+Gurcan, F., & Cagiltay, N. E. (2019). Big Data Software Engineering: Analysis of Knowledge Domains and Skill Sets Using LDA-Based Topic Modeling. IEEE Access, 7, 82541–82552. https://doi.org/10.1109/ACCESS.2019.2924075 
+
+Kalliamvakou, E., Bird, C., Zimmermann, T., Begel, A., DeLine, R., & German, D. M. (2019). What Makes a Great Manager of Software Engineers? IEEE Transactions on Software Engineering, 45(1), 87–106. https://doi.org/10.1109/TSE.2017.2768368 
+
+Mangiza, P., & Brown, I. (2020). Requisite Skills Profile of Software Development Professionals for Startups. Conference of the South African Institute of Computer Scientists and Information Technologists 2020, 102–109. https://doi.org/10.1145/3410886.3410904 
+
+Cornide-Reyes, H., Riquelme, F., Noel, R., Villarroel, R., Cechinel, C., Letelier, P., & Munoz, R. (2021). Key Skills to Work With Agile Frameworks in Software Engineering: Chilean Perspectives. IEEE Access, 9, 84724–84738. https://doi.org/10.1109/ACCESS.2021.3087717 
+
+Kassab, M., Destefanis, G., DeFranco, J., & Pranav, P. (2021). Blockchain-Engineers Wanted: An Empirical Analysis on Required Skills, Education and Experience. 2021 IEEE/ACM 4th International Workshop on Emerging Trends in Software Engineering for Blockchain, 49–55. https://doi.org/10.1109/WETSEB52558.2021.00014 
+
+Kassab, M., Laplante, P., Defranco, J., Neto, V. V. G., & Destefanis, G. (2021). Exploring the Profiles of Software Testing Jobs in the United States. IEEE Access, 9, 68905–68916. https://doi.org/10.1109/ACCESS.2021.3077755 
+
+Ahsan, K., & Ho, M. (2022). Analysis of Agile Project Manager Competencies From Recruitment Signals. Proceedings of the 15th International Conference on Computer Supported Education, 71, 1–14. https://doi.org/10.1109/TEM.2022.3222037 
+
+Assyne, N., Ghanbari, H., & Pulkkinen, M. (2022a). The essential competencies of software professionals: A unified competence framework. Information and Software Technology, 151, 107020. https://doi.org/10.1016/j.infsof.2022.107020 
+
+Assyne, N., Ghanbari, H., & Pulkkinen, M. (2022b). The state of research on software engineering competencies: A systematic mapping study. Journal of Systems and Software, 185, 111183. https://doi.org/10.1016/j.jss.2021.111183 
+
+Goh, J. E. E., Mojado, C. V., & Manaligod, H. J. T. (2022). Competency Model for Programming Courses in Information Technology Education (ITE) Programs from Industry Perspective: A Delphi Method. 2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management, 1–6. https://doi.org/10.1109/HNICEM57413.2022.10109471 
+
+Hidayati, A., Budiardjo, E. K., & Purwandari, B. (2022). Scrum Team Competencies in Information Technology Professionals in the Global Software Development Environment: International Journal of Human Capital and Information Technology Professionals, 13(1), 1–21. https://doi.org/10.4018/IJHCITP.293233 
+
+Liang, J. T., Zimmermann, T., & Ford, D. (2022). Understanding skills for OSS communities on GitHub. Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 170–182. https://doi.org/10.1145/3540250.3549082 
+
+Akdur, D. (2023). Analysis of Software Engineering Skills Gap in the Industry. ACM Transactions on Computing Education, 23(1), 1–28. https://doi.org/10.1145/3567837 
+Bona, F., Chanin, R., Nascimento, N., & Sales, A. (2023). Understanding the Gaps in Software Engineering Education from the Perspective of IT Leaders: A Field Study: Proceedings of the 15th International Conference on Computer Supported Education, 511–518. https://doi.org/10.5220/0011959100003470 
+
+Suleiman, A. D., Hou, D., Liu, Y., DeWaters, J., Small, M. M., De Souza, J. G., & Shepherd, D. (2023). Mapping Learning Objectives of Project-Based Undergraduate Software Engineering Courses to CC2020 Competency Model. 2023 IEEE Frontiers in Education Conference, 1–8. https://doi.org/10.1109/FIE58773.2023.10342967 

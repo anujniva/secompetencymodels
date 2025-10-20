@@ -1,0 +1,14 @@
+Inclusion Criteria
+1 The study pertains to the field of SE or addresses SD (activity, tasks, job role). 
+2 The study identifies more than one individual competency or describes a kind of competency model (framework, profile) or describes a curriculum.
+3 The study proposes a competency model.
+4 The model captures a collection of soft competencies.
+5 The study answers the research questions
+6 The paper must be peer-reviewed
+7 The paper must be written in English
+
+Exclusion Criteria
+1 The study concerns teaching a single course or subject matter.
+2 The study focuses on organizational competencies.
+3 The study does not propose a competency model, proposes a model other than a competency model, or proposes a model that is not a result of the study.
+4 The model includes fewer than five soft competencies.
